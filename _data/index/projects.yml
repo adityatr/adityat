@@ -1,0 +1,31 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+
+- name: Chef Remsy
+  i18n: familycode
+  img: /static/assets/img/landing/chefremsy.png
+  desc: Chef Remsy answers food related queries using machine learning. The bot recognizes user inputs, categories it based on context. It can find the appropriate ingredient or Recipe to generate responses on the fly.Remsy uses advance machine learning and runs on a proprietary infrastructure. 
+- name: Plutus
+  i18n: leetcode
+  gh_user: matthew9012
+  repo: plutus
+  img: /static/assets/img/landing/leetcode.png
+  desc: Gamified the way Canadians share their financial Data and using a AI allow them to save money by comparing the services they use to what is the best in the market place.IBM bluemix dialog service to make SIRI for your bank account,Django Backend, Ionic FrontEnd, Finicity for bank info.
+- name : Nagg
+  i18n: leetcode
+  gh_user: matthew9012
+  repo: Nagg
+  img: /static/assets/img/landing/clock.png
+  desc: Android Application that notifies you to do work
+
+- name: Shift Checkin
+  i18n: leetcode
+  img: /static/assets/img/landing/shiftcheckin.png
+  desc: Developed custom mobile app for iOS, Android and Windows phone for workers in the mine to checkin whether they are coming to work or not. Standalone system. Use Agile Methodology, DevOps process end to end
+
+- name: 4001 Lite
+  i18n: leetcode
+  img: /static/assets/img/landing/4001Lite.png
+  desc: Developed custom mobile app for iOS, Android and Windows phone to create tickets for IT issues. Integration with BMC Remedy application as source system for tickets.Use Agile Methodology, DevOps

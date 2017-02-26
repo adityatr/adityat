@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: GitHub, HTML, AngularJS, Machine Learing, Python, C#,Javascript,TypeScript
+percentage: 100, 100, 70, 30, 70, 100, 100,70

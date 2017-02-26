@@ -1,0 +1,29 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Just Energy
+    i18n: company_a
+  desc:
+    detail: Make and maintain Current Infrastructure as per needs. C# and Javascript
+    i18n: company_a_desc
+  date:
+    detail: September 2016 - Current
+    i18n: company_a_date
+  job:
+    detail: Software Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Vale Canada
+    i18n: company_b
+  desc:
+    detail: Make Xamarin (C#) and Ionic  Javascript based apps to deliver enterprise solutions.
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2015
+    i18n: company_b_date
+  job:
+    detail: Mobile Developer
+    i18n: company_b_job
+  icon: fa-plus-square
