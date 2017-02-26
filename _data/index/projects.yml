@@ -22,7 +22,7 @@
 
 - name: Shift Checkin
   i18n: leetcode
-  img: /static/assets/img/landing/shiftcheckin.PNG
+  img: /static/assets/img/landing/ShiftCheckin.PNG
   desc: Developed custom mobile app for iOS, Android and Windows phone for workers in the mine to checkin whether they are coming to work or not. Standalone system. Use Agile Methodology, DevOps process end to end
 
 - name: 4001 Lite
