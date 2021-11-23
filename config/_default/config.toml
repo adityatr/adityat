@@ -1,0 +1,49 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+# baseURL = "https:/adityat.com/"
+languageCode = "en"
+defaultContentLanguage = "en"
+
+title = "Aditya's blog"
+copyright = "© Aditya Trivedi 2021"
+enableEmoji = true
+enableRobotsTXT = true
+
+summaryLength = 0
+
+[author]
+   name = "Aditya Trivedi"
+   image = "img/me.jpg"
+   bio = "A little bit about you"
+   links = [
+      { twitter = "https://twitter.com/adityatriv" },
+      { email = "mailto:adityatr@outlook.com" },
+      { github = "https://github.com/adityatr" },
+      { linkedin = "https://linkedin.com/in/adityahbk" },
+      { instagram = "https://instagram.com/adityahbk" },
+      { medium = "https://medium.com/@adityahbk" },
+   ]
+  #   { facebook = "https://facebook.com/username" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { foursquare = "https://foursquare.com/username" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { twitch = "https://twitch.tv/username" },
+
+  #   { youtube = "https://youtube.com/username" },

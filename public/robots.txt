@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https:///adityat.com/sitemap.xml
