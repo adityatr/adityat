@@ -10,6 +10,7 @@ title = "Aditya's blog"
 copyright = "© Aditya Trivedi 2021"
 enableEmoji = true
 enableRobotsTXT = true
+googleAnalytics= "UA-71402820-1"
 
 summaryLength = 0
 
