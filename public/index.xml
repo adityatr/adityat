@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Aditya Trivedi 2021</copyright>
-    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cypress Parallelization on Jenkins using Sorry-Cypress</title>
+      <link>/blog/cypress-jenkins/</link>
+      <pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/cypress-jenkins/</guid>
+      <description>UML describing the flow</description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>/about-me/</link>
