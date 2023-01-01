@@ -19,12 +19,13 @@ summaryLength = 0
    image = "img/me.jpg"
    bio = "A little bit about you"
    links = [
-      { twitter = "https://twitter.com/adityatriv" },
+      { pinterest = "https://pinterest.com/itsadinow" },
       { email = "mailto:adityatr@outlook.com" },
+      # { twitter = "https://twitter.com/adityatriv" },
       { github = "https://github.com/adityatr" },
       { linkedin = "https://linkedin.com/in/adityahbk" },
-      { instagram = "https://instagram.com/adityahbk" },
-      { medium = "https://medium.com/@adityahbk" },
+      # { instagram = "https://instagram.com/adityahbk" },
+      # { medium = "https://medium.com/@adityahbk" },
    ]
   #   { facebook = "https://facebook.com/username" },
   #   { link = "https://link-to-some-website.com/" },
