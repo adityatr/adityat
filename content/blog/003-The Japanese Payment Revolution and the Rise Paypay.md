@@ -2,7 +2,8 @@
 title: "The Japanese Payment Revolution and the Rise Paypay"
 date: 2024-01-13
 ---
-
+> This story was original published on [medium](https://medium.com/@adityahbk/the-japanese-payment-revolution-and-the-rise-paypay-06e97691a516)
+> 
 <image src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Moi-f_QSAVzsuuwikrhyiw.jpeg"/>
 
 

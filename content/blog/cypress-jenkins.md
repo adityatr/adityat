@@ -4,7 +4,10 @@ date: 2021-11-28
 cascade:
   showReadingTime: false
 ---
-<img src="imgg/001-uml-describe.png"/>
+> This story was original published on [medium](https://medium.com/@adityahbk/cypress-parallelization-on-jenkins-using-sorry-cypress-197a86ad8ed1)
+
+
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yY9SFEJOYOzct_6LR4SzzA.png"/>
 UML describing the flow
 
 My favorite way of writing an e2e test for my UI is using cypress. Cypress makes things very simple and easy to write tests with.
