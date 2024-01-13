@@ -1,14 +1,16 @@
 ---
 title: "Cypress Parallelization on Jenkins using Sorry-Cypress"
 date: 2021-11-28
+cascade:
+  showReadingTime: false
 ---
-<image src="https://miro.medium.com/max/700/1*yY9SFEJOYOzct_6LR4SzzA.png"/>
+<img src="imgg/001-uml-describe.png"/>
 UML describing the flow
 
 My favorite way of writing an e2e test for my UI is using cypress. Cypress makes things very simple and easy to write tests with.
 
 The problem I found with writing tests with cypress is that it takes too long for the test to complete. This in turn creates friction for new developers to do a full-blown e2e test run.
-<image src="https://miro.medium.com/max/700/1*ubufLTQ-htrHFWu2CSWiRQ.png"/>
+<img src="https://miro.medium.com/max/700/1*ubufLTQ-htrHFWu2CSWiRQ.png"/>
 Cypress running for 40 mins
 
 The fix to ensure we run all our tests regularly to run the test in parallel. Thankfully Jenkins (or any modern CI ) supports running tasks in parallel (https://www.jenkins.io/blog/2017/09/25/declarative-1/).
