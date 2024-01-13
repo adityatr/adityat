@@ -11,8 +11,7 @@ date: 2024-01-13
 # The Japanese Payment Revolution and the Rise Paypay
 
 Paypay QR code in at a small bakery just north of Kyoto
-> I have been to Japan three times, the first two were to work for Paytm to launch Paypay. The engineering had humble beginnings, starting with a small room in a weWork in Ginza, Tokyo. Paypay started with an idea to reduce cash usage in Japan. A country where cash is still a dominant force making up to 64% of all transactions.
-> During my recent vacation to Japan, I witnessed first hand how successful the app has become. Paypay is possibly the biggest startup success from Japan. The app which is now 4 years old and does more than just payments and has over 60 Million users which amounts to ⅔ of Japanese Consumers .
+> I had a realization on my third trip to Japan. On my first two trips, I went on behalf of Paytm Canada, to develop the PayPay app. PayPay's engineering team had humble beginnings - we worked in one of the smaller offices at a WeWork in Ginza,Tokyo. PayPay started with an idea to reduce cash usage in Japan, a country where cash is still a dominant force, making up to 64% of all transactions. During my recent vacation, I witnessed first hand how successful the app has become. PayPay is possibly the biggest startup success from Japan. The app which is now 4 years old and does more than just payments and has over 60 Million users which amounts to ⅔ of Japanese Consumers.
 
 ## Introduction
 
