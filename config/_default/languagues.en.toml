@@ -14,7 +14,7 @@ copyright = "&auml;&igrave;"
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
 
-[author]
+[params.author]
    name = "Aditya Trivedi"
    image = "img/me2023.jpeg"
   # headline = "I'm only human"

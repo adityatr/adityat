@@ -14,7 +14,7 @@ googleAnalytics= "G-R08GSNNM5R"
 
 summaryLength = 0
 
-[author]
+[params.author]
    name = "Aditya Trivedi"
    image = "img/me2023.jpeg"
    bio = "Software Engineer at Pinterest in Toronto."
