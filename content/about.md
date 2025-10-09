@@ -1,11 +1,11 @@
 ---
 title: "About me"
-date: 2021-08-14
+date: 2025-10-09
 draft: false
 description: "Things about me"
 slug: "about me"
-tags: ["users", "sample"]
-showDate: false
+# tags: ["users", "sample"]
+showDate: true
 showAuthor: false
 showReadingTime: false
 showEdit: false
