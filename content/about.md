@@ -11,10 +11,8 @@ showReadingTime: false
 showEdit: false
 sharingLinks: false
 ---
+Hi, I'm Aditya. I currently work as a Senior Software Engineer @ Pinterest. 
+I work in a space between being Foundation's engineer and Data Scientist. Day to Day. Using data and a bit of outside the box thinking to make the experience for every Pinner a little better.
 
-My name is Aditya Trivedi. 
-I am a highly-skilled and motivated senior software engineer with 9 years of experience. I enjoy writing in JS/TS with
-React and Node.js. Solution-focused, data-driven and customer-obsessed. Delivered software projects in four
-countries impacting 100M+ customers.
 
-[Resume](/Resume.pdf)
+<!-- [Resume](/Resume.pdf) -->
