@@ -1,3 +1,3 @@
-## dev SERVE
+## dev SERVER
 hugo serve
 
