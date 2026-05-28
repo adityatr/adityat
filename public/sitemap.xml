@@ -4,35 +4,35 @@
   
     
       <url>
-            <loc>//localhost:1313/about-me/</loc>
+            <loc>/about-me/</loc>
             <lastmod>2025-10-09T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/</loc>
+            <loc>/</loc>
             <lastmod>2025-10-09T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/blog/</loc>
+            <loc>/blog/</loc>
             <lastmod>2024-01-13T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/blog/003-the-japanese-payment-revolution-and-the-rise-paypay/</loc>
+            <loc>/blog/003-the-japanese-payment-revolution-and-the-rise-paypay/</loc>
             <lastmod>2024-01-13T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>//localhost:1313/blog/cypress-jenkins/</loc>
+            <loc>/blog/cypress-jenkins/</loc>
             <lastmod>2021-11-28T00:00:00+00:00</lastmod>
           </url>
     
